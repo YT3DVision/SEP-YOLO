@@ -18,7 +18,7 @@ object instance segmentation. Extensive experiments on the
 Trans10K and GVD datasets show that SEP-YOLO achieves
 state-of-the-art (SOTA) performance.
 
-##Proceeding
+## Proceeding
 
 Fengming Zhang, Tao Yan and Jianchao Huang, "SEP-YOLO: Fourier-Domain Feature Representation for Transparent Object Instance Segmentation," 2026 IEEE International Symposium on Circuits and Systems (ISCAS), Shanghai, China, 2026, pp. 140-144, doi: 10.1109/ISCAS66217.2026.11562174.
 
