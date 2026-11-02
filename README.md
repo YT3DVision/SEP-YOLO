@@ -22,6 +22,7 @@ state-of-the-art (SOTA) performance.
 
 Fengming Zhang, Tao Yan and Jianchao Huang, "SEP-YOLO: Fourier-Domain Feature Representation for Transparent Object Instance Segmentation," 2026 IEEE International Symposium on Circuits and Systems (ISCAS), Shanghai, China, 2026, pp. 140-144, doi: 10.1109/ISCAS66217.2026.11562174.
 
+The paper link is https://ieeexplore.ieee.org/document/11562174.
 ## Network Architecture
 ![architecture](image/SEP-YOLO.jpg)
 
