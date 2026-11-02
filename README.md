@@ -1,7 +1,5 @@
-# SEP-YOLO
-**Fengming Zhang，Tao Yan\*，Jianchao Huang **
-
-> Abstract—Transparent object instance segmentation presents significant challenges in computer vision, due to the inherent properties of transparent objects, including boundary blur, low
+# Abstract
+Transparent object instance segmentation presents significant challenges in computer vision, due to the inherent properties of transparent objects, including boundary blur, low
 contrast, and high dependence on background context. Exist
 ing methods often fail as they depend on strong appearance
 cues and clear boundaries. To address these limitations, we
@@ -19,6 +17,10 @@ Trans10K dataset, filling the critical data gap in transparent
 object instance segmentation. Extensive experiments on the
 Trans10K and GVD datasets show that SEP-YOLO achieves
 state-of-the-art (SOTA) performance.
+
+##Proceeding
+
+Fengming Zhang, Tao Yan and Jianchao Huang, "SEP-YOLO: Fourier-Domain Feature Representation for Transparent Object Instance Segmentation," 2026 IEEE International Symposium on Circuits and Systems (ISCAS), Shanghai, China, 2026, pp. 140-144, doi: 10.1109/ISCAS66217.2026.11562174.
 
 ## Network Architecture
 ![architecture](image/SEP-YOLO.jpg)
